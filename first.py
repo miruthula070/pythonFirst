@@ -1,2 +1,3 @@
 print("hello World")
-print("*" * 10)
+
+print("*" * 8)
